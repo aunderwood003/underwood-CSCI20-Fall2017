@@ -61,3 +61,13 @@ customerD.totalCost = (customerD.grossCost + customerD.yogurtTip);
 cout << "Your total cost is: " << customerD.totalCost << endl;
 
 }
+/*
+Your total cost is: 3.905
+Your total cost is: 6.22
+Your total cost is: 7.44
+Your total cost is: 5.88
+
+
+Process exited with code: 0
+
+*/
