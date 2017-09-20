@@ -1,3 +1,6 @@
+// Created by: Alex Underwood
+// Created on: 9-19-17
+
 #include <iostream>
 #include <cmath>
 using namespace std;
